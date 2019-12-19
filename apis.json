@@ -1,0 +1,54 @@
+{
+    "name": "NoPressuRe",
+    "description": "<p>We are passionate scientists. We walk the unbeaten path. We research on technology and free software. We are committed to keep the web open. We also love hanging out at the beach and enjoying the outdoors.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nopressure-logo.png",
+    "tags": [
+        "agencies",
+        "api tools",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nopressure\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NoPressuRe",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nopressure-logo.png",
+            "humanURL": "http:\/\/www.nopressure.co.uk\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nopressure-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.nopressure.co.uk\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.nopressure.co.uk\/rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/nopressurelabs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nopressure"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nopressure.co.uk\/"
+        }
+    ]
+}
